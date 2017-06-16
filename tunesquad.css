@@ -1,0 +1,26 @@
+h1{
+	font-size: 50px;
+	text-align: center;
+}
+
+body {
+	width: 800px;
+	font-size:20px;
+	margin: 0 auto;
+	color: white;
+	padding: 20px;
+	background-image: url('bg_stars.gif');
+	text-align: center;
+	font-family: "Futura";
+	font-color: "white";
+}
+
+img {
+	width: 400px;
+	border: 30px double white;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-top: 40px;
+}
+
+
